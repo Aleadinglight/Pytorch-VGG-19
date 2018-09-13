@@ -8,6 +8,8 @@ This one was wrote using important ideas from Pytorch tutorial. I did my best to
 
 ## Gallery
 From
-<img src="../master/picture/ava.png" width="300"> + <img src="../master/picture/style.png" width="300"> 
+
+<img src="../master/picture/ava.png" width="300"> <img src="../master/picture/style.png" width="300"> 
+
 To
 <img src="../master/picture/ava_after.png" width="300">
