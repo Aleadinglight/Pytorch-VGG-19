@@ -7,3 +7,7 @@ This is an implementation of this [paper](https://www.cv-foundation.org/openacce
 This one was wrote using important ideas from Pytorch tutorial. I did my best to explain in detail the ideas in each section of the Python notebook. The maths and visual illustation can be found below.
 
 ## Gallery
+
+<img src="../master/picture/ava.jpg" width="300">
+<img src="../master/picture/style.jpg" width="300"> = 
+<img src="../master/picture/ava_after.jpg" width="300">
