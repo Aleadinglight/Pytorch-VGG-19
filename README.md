@@ -9,6 +9,10 @@ This is an implementation of this [paper](https://www.cv-foundation.org/openacce
 
 This one was wrote using important ideas from Pytorch tutorial. I did my best to explain in detail the ideas in each section of the Python notebook. The maths and visual illustation can be found below.
 
+## Maths
+
+We will feed two pictures X and Y into the VGG-19 neural network. We will adjust the feature maps of these pictures to look closely to each other. Because the feature maps contain the style and content of the particular picture (Convolutional layer helps us to create more aspects of a picture). 
+
 ## Gallery
 From
 
