@@ -16,6 +16,14 @@ We will feed two pictures X and Y into the VGG-19 neural network. We will adjust
 
 We have to minimize the style loss the make the picture X adopt the style of picture Y, also we need to minimize the content loss between the picture X itself so that the content stays and the style changes.
 
+The features maps from X that we will use:
+
+<img src="../master/picture/feature_layers_size.png" width="300">
+
+Using the Gram matrix as feature correlation between _one pixel to all others_ in one picture, we can calculate the style loss.
+
+<img src="../master/picture/Gram_matrix.png" width="300">
+
 ## Gallery
 
 From
